@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ToccoPelo
+  - ColliderMonete
+  - ScieSabbiose
+  - Overlay
+  - BarraOpzioni
+  - Controller
+  - GestoreMenu
+  - Loader
+  - 2DRectMask
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pelo
+  - ToccoPelo
+  - Prospettiva
+  - Petalo
+  - TriggerPetali
+  - LayerCamera
+  - Spinner
+  - SpinnerCentro
+  - Rastrello
+  - PufferBall
+  - PufferBallCollider
+  - Liquido
+  - ColliderLiquido
+  - CalamitaLiquido
+  - SaccoBoxe
+  - NonCollideConDue
+  - NonCollideConUno
+  - Trigger
+  - CollideSoloConSeStesso
+  - Front
+  - CollideSoloConLiquido
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Sfondo"
+    uniqueID: 3221464385
+    locked: 0
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "Particelle"
+    uniqueID: 3541112347
+    locked: 0
+  - name: "Top"
+    uniqueID: 3782675897
+    locked: 0
+  - name: "Spinner"
+    uniqueID: 548097705
+    locked: 0

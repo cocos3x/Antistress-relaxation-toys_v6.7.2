@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2debec653e414864924597c55373a90b
+timeCreated: 1646950643
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "CourierPrime-Bold"
+  fontNames:
+  - Courier Prime
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

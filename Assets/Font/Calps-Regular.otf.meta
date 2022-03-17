@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1571447b0f245fe8e9575605dc024ef
+timeCreated: 1646950683
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Calps-Regular"
+  fontNames:
+  - Calps
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
